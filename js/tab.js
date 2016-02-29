@@ -209,7 +209,7 @@ window.onload=function(){
         }
        }
        lou11.onclick=function(){
-       	location.reload("file:///F:/daima/zuoye/yihaodian/index.html");
+       	location.reload("http://freedom-a.github.io/yihaodian");
        }
        //10楼选项卡
        var f10topcenterli=$(".f10-top-center-li");
